@@ -31,7 +31,7 @@ C++, PL/SQL, JavaScript
   <img src="https://forthebadge.com/images/badges/fuck-it-ship-it.svg">
   <br><br>
 &nbsp; <a href="https://steamcommunity.com/id/Cr4sher_/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="60" /></a>  
-&nbsp; <a href="https://discord.com/users/200295250021974016" target="_blank" rel="noopener noreferrer"><img src="https://static.wikia.nocookie.net/logopedia/images/d/dd/Discord_2021_Alt1.svg" width="60" /></a>  
+&nbsp; <a href="discord://discordapp.com/users/200295250021974016" target="_blank" rel="noopener noreferrer"><img src="https://static.wikia.nocookie.net/logopedia/images/d/dd/Discord_2021_Alt1.svg" width="60" /></a>  
 &nbsp; <a href="https://twitter.com/Cr4sherL" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg" width="60" /></a>  
 &nbsp; <a href="https://www.instagram.com/derlucashier/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="60" /></a>  
 &nbsp; <a href="mailto:lucasweiland66@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png"  width="60" /></a>

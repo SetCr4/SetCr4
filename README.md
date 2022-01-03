@@ -8,9 +8,9 @@ You found my GitHub Profile
 ### About me
 - currently 21 years old
 - German living in <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/de.svg" width="24px">
+- Bachelor of Science (Informatics)
 - Applied Computer Science Master Student at [hs-schmalkalden.de](https://www.hs-schmalkalden.de)
 - Team Member of the applied computational intelligence laboratory at [ci.hs-schmalkalden.de](https://ci.hs-schmalkalden.de)
-- bachelor thesis is WIP 
 
 ### My Stuff
 - Beat Saber Mod "[EmoteRain](https://github.com/SetCr4/EmoteRain)" made with ❤️ by [Uialeth](https://github.com/Tiruialon) and me (check the repo for more info)

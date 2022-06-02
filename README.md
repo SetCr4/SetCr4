@@ -1,4 +1,4 @@
-## Hey there, I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there, I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 [![Website www.cr4.live](https://img.shields.io/website-up-down-green-red/https/www.cr4.live.svg)](https://www.cr4.live/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SetCr4.SetCr4)
 <img src="https://cdn.betterttv.net/emote/5a5e0e8d80f53146a54a516b/3x" width="30px">  

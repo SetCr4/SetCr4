@@ -6,7 +6,7 @@
 You found my GitHub Profile  
 
 ### About me
-- currently 21 years old
+- currently 22 years old
 - German living in <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/de.svg" width="24px">
 - Bachelor of Science (Informatics)
 - Applied Computer Science Master Student at [hs-schmalkalden.de](https://www.hs-schmalkalden.de)
@@ -34,6 +34,7 @@ C++, PL/SQL
 &nbsp; <a href="https://steamcommunity.com/id/Cr4sher_/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="60" /></a>  
 &nbsp; <a href="https://discord.com/users/200295250021974016" target="_blank" rel="noopener noreferrer"><img src="https://static.wikia.nocookie.net/logopedia/images/d/dd/Discord_2021_Alt1.svg" width="60" /></a>  
 &nbsp; <a href="https://twitter.com/Cr4sherL" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg" width="60" /></a>  
-&nbsp; <a href="https://www.instagram.com/derlucashier/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="60" /></a>  
+&nbsp; <a href="https://www.instagram.com/derlucashier/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="60" /></a>
+&nbsp; <a href="https://ko-fi.com/N4N1D2XCA" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg" width="60" /></a>
 &nbsp; <a href="mailto:lucasweiland66@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png"  width="60" /></a>
 </p>

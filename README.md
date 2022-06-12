@@ -29,7 +29,7 @@ C++, PL/SQL
 
 <p align="center">
   <br><br>And Don't Forget, just<br><br>
-  <a href="https://gitea.cr4.live/" target="_blank" rel="noopener noreferrer"><img src="https://forthebadge.com/images/badges/fuck-it-ship-it.svg"></a>
+  <a href="https://gitea.pi.cr4.live/" target="_blank" rel="noopener noreferrer"><img src="https://forthebadge.com/images/badges/fuck-it-ship-it.svg"></a>
   <br><br>
 &nbsp; <a href="https://steamcommunity.com/id/Cr4sher_/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="60" /></a>  
 &nbsp; <a href="https://discord.com/users/200295250021974016" target="_blank" rel="noopener noreferrer"><img src="https://static.wikia.nocookie.net/logopedia/images/d/dd/Discord_2021_Alt1.svg" width="60" /></a>  

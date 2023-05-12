@@ -6,7 +6,7 @@
 You found my GitHub Profile  
 
 ### About me
-- currently 22 years old
+- currently 23 years old
 - German living in <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/de.svg" width="24px">
 - Bachelor of Science (Informatics)
 - Applied Computer Science Master Student at [hs-schmalkalden.de](https://www.hs-schmalkalden.de)
@@ -14,6 +14,7 @@ You found my GitHub Profile
 
 ### My Stuff
 - Beat Saber Mod "[EmoteRain](https://github.com/SetCr4/EmoteRain)" made with ❤️ by [Uialeth](https://github.com/Tiruialon) and me (check the repo for more info)
+- HypeParty, check it out at https://hypeparty.cr4.live/ made with ❤️ by [Mxx](https://github.com/mxx-lxg) and me (private repo)
 - Most of my projects are either private or private on my own gitea instance
 - Current main interest is Image Processing using different OpenCV algorithms 
 
@@ -31,10 +32,9 @@ C++, PL/SQL
   <br><br>And Don't Forget, just<br><br>
   <a href="https://gitea.pi.cr4.live/" target="_blank" rel="noopener noreferrer"><img src="https://forthebadge.com/images/badges/fuck-it-ship-it.svg"></a>
   <br><br>
-&nbsp; <a href="https://steamcommunity.com/id/Cr4sher_/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="60" /></a>  
-&nbsp; <a href="https://discord.com/users/200295250021974016" target="_blank" rel="noopener noreferrer"><img src="https://static.wikia.nocookie.net/logopedia/images/d/dd/Discord_2021_Alt1.svg" width="60" /></a>  
-&nbsp; <a href="https://twitter.com/Cr4sherL" target="_blank" rel="noopener noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="60" /></a>  
+&nbsp; <a href="https://steamcommunity.com/id/Cr4sher_/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="60" /></a>
+&nbsp; <a href="https://discord.gg/ccTNyCDUs9" target="_blank" rel="noopener noreferrer"><img src="https://static.wikia.nocookie.net/logopedia/images/d/dd/Discord_2021_Alt1.svg" width="60" /></a>
+&nbsp; <a href="https://twitter.com/Cr4sherL" target="_blank" rel="noopener noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="60" /></a>
 &nbsp; <a href="https://www.instagram.com/derlucashier/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="60" /></a>
-&nbsp; <a href="https://ko-fi.com/N4N1D2XCA" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg" width="60" /></a>
 &nbsp; <a href="mailto:lucasweiland66@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png"  width="60" /></a>
 </p>

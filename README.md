@@ -14,7 +14,7 @@ You found my GitHub Profile
 
 ### My Stuff
 - Beat Saber Mod "[EmoteRain](https://github.com/SetCr4/EmoteRain)" made with ❤️ by [Uialeth](https://github.com/Tiruialon) and me (check the repo for more info)
-- HypeParty, check it out at https://hypeparty.cr4.live/ made with ❤️ by [Mxx](https://github.com/mxx-lxg) and me (private repo)
+- HypeParty, check it out at https://hypeparty.net/ made with ❤️ by [Mxx](https://github.com/mxx-lxg) and me (private repo)
 - Most of my projects are either private or private on my own gitea instance
 - Current main interest is Image Processing using different OpenCV algorithms 
 

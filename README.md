@@ -11,8 +11,8 @@ You found my GitHub Profile
 - Master of Science (Applied Computer Science)
 
 ### My Stuff
-- Beat Saber Mod "[EmoteRain](https://github.com/SetCr4/EmoteRain)" made with ❤️ by [Uialeth](https://github.com/Tiruialon) and me (check the repo for more info)
-- HypeParty, check it out at https://hypeparty.net/ made with ❤️ by [Mxx](https://github.com/mxx-lxg) and me (private repo)
+- HypeParty, a Streamer Tool. Check it out at [hypeparty.net](https://hypeparty.net/)
+- Beat Saber Mod "[EmoteRain](https://github.com/SetCr4/EmoteRain)" made with ❤️ by [Uialeth](https://github.com/Tiruialon) and me (check the repo for more info) 
 - Most of my projects are either private or private on my own GitLab instance
 
 ### What Programming Languages do I use?

@@ -6,7 +6,7 @@
 You found my GitHub Profile  
 
 ### About me
-- currently 25 years old
+- currently <!-- MARKER:AGE -->25<!-- EOM --> years old
 - German living in <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/de.svg" width="24px">
 - Master of Science (Applied Computer Science)
 

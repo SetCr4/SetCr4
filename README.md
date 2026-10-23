@@ -31,7 +31,5 @@ C++, PL/SQL
   <br><br>
 &nbsp; <a href="https://steamcommunity.com/id/Cr4sher_/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="60" /></a>
 &nbsp; <a href="https://discord.gg/ccTNyCDUs9" target="_blank" rel="noopener noreferrer"><img src="https://static.wikia.nocookie.net/logopedia/images/d/dd/Discord_2021_Alt1.svg" width="60" /></a>
-&nbsp; <a href="https://twitter.com/Cr4sherL" target="_blank" rel="noopener noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="60" /></a>
-&nbsp; <a href="https://www.instagram.com/derlucashier/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="60" /></a>
-&nbsp; <a href="mailto:lucasweiland66@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png"  width="60" /></a>
+&nbsp; <a href="mailto:lucasweiland66@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Email_icon.png"  width="60" /></a>
 </p>
